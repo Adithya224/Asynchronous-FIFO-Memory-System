@@ -1,6 +1,6 @@
 # Asynchronous-FIFO-Memory-System
 
-The project is done by Adithya H Nair -2021AAPS3020H
+This project is done by Adithya H Nair -2021AAPS3020H
 
 The following has been covered in the project -
 
